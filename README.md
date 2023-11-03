@@ -16,3 +16,5 @@ The project file is FINAL CODE SUBMISSION.c
 
 demo video drive link:
 https://drive.google.com/file/d/1d9YUNz6ISWofme2iftyPkxIhIgiRkqDv/view?usp=drivesdk
+
+In the video, the left side green snake is controlled by the player and the right side pink snake is moving by itself and its our computer opponent
